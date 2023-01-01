@@ -13,7 +13,7 @@
     "vuex": "^4.0.0-beta.4"
   },
   "devDependencies": {
-    "@vue/compiler-sfc": "^3.0.0-beta.15",
+    "@vue/compiler-sfc": "^3.2.45",
     "sass": "^1.26.9",
     "vite": "^1.0.0-beta.3"
   }
